@@ -45,4 +45,4 @@ pip install qiskit qiskit-aer matplotlib
 
 ## Author
 
-Built as a first Quantum Computing project exploring quantum randomness vs classical pseudorandomness.
+Built as a first Quantum Computing project
